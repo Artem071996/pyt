@@ -1,7 +1,5 @@
 import sqlite3
 
-#######
-
 def seve(name_user,
          id_line,
          user_id,
